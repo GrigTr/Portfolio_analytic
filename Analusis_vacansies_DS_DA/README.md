@@ -11,18 +11,9 @@
 - **python**
 - **pandas**
 - **numpy**
-- **scipy**
-- sklearn.model_selection.**cross_val_score**
-- sklearn.metrics.**mean_squared_error**
-- sklearn.metrics.**mean_absolute_error**
-- sklearn.preprocessing.**StandardScaler**
-- sklearn.linear_model.**LinearRegression**
-- sklearn.tree.**DecisionTreeRegressor**
-- sklearn.ensemble.**RandomForestRegressor**
 - **matplotlib**
-
-## 
+- **plotly**
 
 ## Общий вывод
 
-Было проведено обучение выбранных моделей для стадий грубой и тонкой очистки, проведена проверка выбранных обученных моделей на тестовом наборе и выбрана одна для запуска в производство.
+Проведён анализ вакансий аналитиков данных и DS специалистов, который выявил различия и общие черты для каждой специальности по грейдам.
